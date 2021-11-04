@@ -1,0 +1,36 @@
+.forma {
+    background: url(./fon.png); 
+    
+}
+.dan  {
+    background-color:rgb(91, 91, 184); 
+    width: 300px;
+    height: 30px;
+}
+.var {
+    display: flex;
+}
+legend {
+    font-size: 200%;
+    background-color: chartreuse;
+    color: #000;
+}
+p {
+    margin-top: -22px;
+    margin-left: 20px;
+    font-size: 120%;
+    color : black;
+    background-color: yellow;
+}
+li {
+    list-style-type: none; 
+   }
+label {
+    font-size: 200%;
+}
+::-webkit-input-placeholder{color: black;}
+button {
+    background-color: chocolate;
+    width: 20%;
+    font-size: 200%;
+}
